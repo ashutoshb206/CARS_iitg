@@ -30,6 +30,9 @@ The notebook provides answers to key questions such as:
 - Jupyter Notebook 📓
 - pandas (for data analysis)
 
+
+If you find this helpful, please ⭐ the repo!
+
 ## 🚀 Getting Started
 
 To run this project locally:
