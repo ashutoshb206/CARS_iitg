@@ -38,6 +38,23 @@ If you find this helpful, please ⭐ the repo!
 To run this project locally:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/ashutoshb206/CARS_iitg.git
-   cd CARS_iitg
+
+    ```bash
+    git clone https://github.com/ashutoshb206/CARS_iitg.git
+    cd CARS_iitg
+    ```
+
+2. **Open the notebook:**
+
+    ```bash
+    jupyter notebook CARS_iitg_Assignment.ipynb
+    ```
+
+3. **Run all cells** to see the outputs and validate the analysis.
+
+## ✅ Requirements
+
+Install dependencies with:
+
+```bash
+pip install pandas notebook
